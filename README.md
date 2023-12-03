@@ -1,11 +1,11 @@
 # ImageCompressor
 
 
-### Introduction
+## Introduction
 Introduction
 
-### Guide
+## Guide
 Guide
 
-### Performances
+## Performances
 Performances
